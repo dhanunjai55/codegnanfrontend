@@ -27,7 +27,7 @@ function DefaultLayout(props) {
          
           href="/admin"
         >
-          Admin
+          Login As Admin
         </a>
       </Menu.Item>
       <Menu.Item onClick={()=>{
